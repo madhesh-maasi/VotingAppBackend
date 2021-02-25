@@ -1,0 +1,4 @@
+D:\UMASANKAR\MeetingApp\MeetingApp\BAL\bin\Debug\netstandard2.0\BAL.deps.json
+D:\UMASANKAR\MeetingApp\MeetingApp\BAL\bin\Debug\netstandard2.0\BAL.dll
+D:\UMASANKAR\MeetingApp\MeetingApp\BAL\obj\Debug\netstandard2.0\BAL.AssemblyInfoInputs.cache
+D:\UMASANKAR\MeetingApp\MeetingApp\BAL\obj\Debug\netstandard2.0\BAL.AssemblyInfo.cs

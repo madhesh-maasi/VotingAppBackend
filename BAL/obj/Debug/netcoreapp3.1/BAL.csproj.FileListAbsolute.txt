@@ -1,0 +1,14 @@
+D:\UMASANKAR\Meeting\MeetingApp\BAL\bin\Debug\netcoreapp3.1\BAL.deps.json
+D:\UMASANKAR\Meeting\MeetingApp\BAL\bin\Debug\netcoreapp3.1\BAL.dll
+D:\UMASANKAR\Meeting\MeetingApp\BAL\bin\Debug\netcoreapp3.1\BAL.pdb
+D:\UMASANKAR\Meeting\MeetingApp\BAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\UMASANKAR\Meeting\MeetingApp\BAL\bin\Debug\netcoreapp3.1\DTO.dll
+D:\UMASANKAR\Meeting\MeetingApp\BAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\UMASANKAR\Meeting\MeetingApp\BAL\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\UMASANKAR\Meeting\MeetingApp\BAL\obj\Debug\netcoreapp3.1\BAL.csprojAssemblyReference.cache
+D:\UMASANKAR\Meeting\MeetingApp\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+D:\UMASANKAR\Meeting\MeetingApp\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+D:\UMASANKAR\Meeting\MeetingApp\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
+D:\UMASANKAR\Meeting\MeetingApp\BAL\obj\Debug\netcoreapp3.1\BAL.dll
+D:\UMASANKAR\Meeting\MeetingApp\BAL\obj\Debug\netcoreapp3.1\BAL.pdb
+D:\UMASANKAR\Meeting\MeetingApp\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
